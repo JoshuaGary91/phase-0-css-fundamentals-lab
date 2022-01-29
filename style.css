@@ -3,3 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: black;
+  text-align: 100%;
+}
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: grey; 
+  }
+.featured-property {
+width: 800px;
+text-align: ;
+}
+.details {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
